@@ -1,0 +1,1 @@
+﻿Get-Service -Name "AdobeARMservice" #Nome do serviço, da coluna Name
